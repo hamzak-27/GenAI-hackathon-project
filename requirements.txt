@@ -1,0 +1,12 @@
+langchain
+langchain_community
+langchain_core
+langchain_experimental
+langchain_google_genai
+pandas
+python-dotenv
+tabulate
+openai
+numpy
+streamlit
+sqlite3
